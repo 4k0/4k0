@@ -35,8 +35,6 @@
 👨 >> Name: Alex
 ```
 
-
-<p align="center">
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
                               )](https://discord.com/users/855492893385293864)
 
