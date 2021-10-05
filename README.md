@@ -37,8 +37,7 @@
 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
                               )](https://discord.com/users/855492893385293864)
-                              [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855481921714257930
-                              )](https://discord.com/users/855481921714257930)         
+                                     
                               
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
