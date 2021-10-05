@@ -1,4 +1,4 @@
-<h1 align=center>sup, a4ar weird porn adict kid.</h1>
+<h1 align=center>sup, b2eq weird porn adict kid.</h1>
 
 
 <p align="center">
@@ -31,12 +31,12 @@
 
 ```
 📧 >> Contact me: 3ye.secu@protonmail.ch
-📧 >> Discord: a4ar#2009
+📧 >> Discord: b2eq#2009
 👨 >> Name: Alex
 ```
 
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
-                              )](https://discord.com/users/855492893385293864)
+      [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
+                                  )](https://discord.com/users/855492893385293864)
                                      
                               
 <h1 align="center">STATS FOR NERDS</h1>
