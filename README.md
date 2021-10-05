@@ -35,10 +35,12 @@
 👨 >> Name: Alex
 ```
 
-      [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
-                                  )](https://discord.com/users/855492893385293864)
-                                     
-                              
+
+<p align="center">
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
+                              )](https://discord.com/users/855492893385293864)
+
+
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
   <img src="">
@@ -54,10 +56,8 @@
 ```py
 import discord
 from discord.ext import commands
-
 client = commands.Bot(command_prefix="s!")
 client.remove_command("help")
-
 @client.command()
 async def primarylanguages(ctx):
     langem = discord.Embed(
@@ -71,7 +71,6 @@ async def primarylanguages(ctx):
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = langem)
-
 @client.command()
 async def aboutme(ctx):
     aboutem = discord.Embed(
@@ -80,7 +79,6 @@ async def aboutme(ctx):
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = aboutem)
-
 client.run("Token")
 ```
 <p align='center'>
