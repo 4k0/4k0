@@ -1,4 +1,4 @@
-<h1 align=center>sup, b2eq weird porn adict kid.</h1>
+<h1 align=center>sup, 2zC weird porn adict kid.</h1>
 
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ```
 📧 >> Contact me: 3ye.secu@protonmail.ch
-📧 >> Discord: b2eq#2009
+📧 >> Discord: 2zC#2009
 👨 >> Name: Alex
 ```
 
