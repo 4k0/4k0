@@ -1,8 +1,8 @@
-<h1 align=center>sup, 2zC weird porn adict kid.</h1>
+<h1 align=center>wassup, im blez.</h1>
 
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
+  <b>Follow me here:</b><br>
   <a href="https://twitter.com/Blez_its">Twitter</a> |
   <a href="https://github.com/4k0">Github</a>
   <br><br>
@@ -30,13 +30,12 @@
 </p>
 
 ```
-📧 >> Contact me: 3ye.secu@protonmail.ch
-📧 >> Discord: 2zC#2009
+📧 >> Contact me: 4k0@shiro.wtf
+📧 >> Discord: 4k0#0001
 👨 >> Name: Alex
 ```
 
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/855492893385293864
-                              )](https://discord.com/users/855492893385293864)
+[![Discord Presence](https://lanyard.cnrad.dev/api/933609680427708476)](https://discord.com/users/933609680427708476)
 
 
 <h1 align="center">STATS FOR NERDS</h1>
@@ -59,7 +58,7 @@ client.remove_command("help")
 @client.command()
 async def primarylanguages(ctx):
     langem = discord.Embed(
-        title="Max's Languages",
+        title="blez's Languages",
         description="""Languages I Use!
         Python
         C-Sharp
@@ -73,13 +72,13 @@ async def primarylanguages(ctx):
 async def aboutme(ctx):
     aboutem = discord.Embed(
         title="Some Info About Me :)",
-        description="My Name: Alex / a4ar\nMy Discord Name Is: a4ar#2009\nTwitter Name: @Blez_its\nMy Location: Mexico\nMy Hobbies: Coding, Gaming, THUG Pro and idk lol.",
+        description="My Name: Alex / 4k0\nMy Discord Name Is: 4k0#0001\nTwitter Name: @Blez_its\nMy Location: Mexico\nMy Hobbies: Coding, Gaming, THUG Pro and idk lol.",
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = aboutem)
 client.run("Token")
 ```
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k0&show_icons=true&include_all_commits=true&theme=radical" alt="a4ar github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k0&show_icons=true&include_all_commits=true&theme=radical" alt="blez github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4k0&layout=compact&theme=radical" />
 </p>
