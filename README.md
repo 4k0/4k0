@@ -8,8 +8,8 @@
   <br><br>
   <img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gifv">
   <br><br>
-  [![views](https://komarev.com/ghpvc/?username=tcrms&label=Views&color=161b22)](https://github.com/tcrms)
 </p>
+  [![views](https://komarev.com/ghpvc/?username=tcrms&label=Views&color=161b22)](https://github.com/tcrms)
 
 
 
