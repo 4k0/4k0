@@ -1,4 +1,4 @@
-<h1 align=center>wassup, im blez.</h1>
+<h1 align=center>4k0 🌠</h1>
 
 
 <p align="center">
@@ -14,15 +14,11 @@
 
 ### Languages I use.
 <p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-750098?style=flat-square&logo=visual-studio&logoColor=white" />
-  <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-8006c7?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="NginX" src="https://img.shields.io/badge/-NginX-269539?style=flat-square&logo=NginX&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python3" src="https://img.shields.io/badge/-Python3-cf9006?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-CD9834?style=flat-square&logo=Linux&logoColor=white" />
@@ -31,11 +27,11 @@
 
 ```
 📧 >> Contact me: 4k0@shiro.wtf
-📧 >> Discord: 4k0#0001
+📧 >> Discord: 4k0#0069
 👨 >> Name: Alex
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/933609680427708476)](https://discord.com/users/933609680427708476)
+[![Discord Presence](https://lanyard.cnrad.dev/api/813932500287881216)](https://discord.com/users/813932500287881216)
 [![views](https://komarev.com/ghpvc/?username=4k0&label=Views&color=161b22)](https://github.com/4k0)
 
 <h1 align="center">STATS FOR NERDS</h1>
