@@ -28,7 +28,7 @@
 ```
 📧 >> Contact me: 4k0@shiro.wtf
 📧 >> Discord: 4k0#0069
-👨 >> Name: Alex
+👨 >> Name: wae
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/813932500287881216)](https://discord.com/users/813932500287881216)
@@ -68,7 +68,7 @@ async def primarylanguages(ctx):
 async def aboutme(ctx):
     aboutem = discord.Embed(
         title="Some Info About Me :)",
-        description="My Name: Alex / 4k0\nMy Discord Name Is: 4k0#0001\nTwitter Name: @Blez_its\nMy Location: Mexico\nMy Hobbies: Coding, Gaming, THUG Pro and idk lol.",
+        description="My Name: Alex / 4k0\nMy Discord Name Is: yes\nTwitter Name: @Blez_its\nMy Location: Mexico\nMy Hobbies: Coding, Gaming, THUG Pro and idk lol.",
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = aboutem)
