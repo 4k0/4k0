@@ -25,7 +25,7 @@
 👨 >> Name: Angel
 ```
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504791596416499712?theme=dark&bg=0ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/504791596416499712)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504791596416499712?theme=dark&bg=0&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/504791596416499712)
 [![views](https://komarev.com/ghpvc/?username=4k0&label=Views&color=161b22)](https://github.com/4k0)
 
 <h1 align="center">STATS FOR NERDS</h1>
